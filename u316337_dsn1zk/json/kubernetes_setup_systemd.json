@@ -1,5 +1,0 @@
-{
-  "body_html": "<!doctype html><div data-lake-element=\"root\" class=\"lake-engine lake-typography-traditional\" data-parser-by=\"lake2html\"><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">可以参考 <a href=\"https://github.com/opsnull/follow-me-install-kubernetes-cluster\" target=\"_blank\" rel=\"noopener noreferrer\">opsnull/follow-me-install-kubernetes-cluster</a> 项目一步步部署 kubernetes 集群。</p></div>",
-  "slug": 5096371,
-  "title": "一步步部署 kubernetes 集群"
-}

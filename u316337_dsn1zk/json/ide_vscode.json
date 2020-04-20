@@ -1,5 +1,0 @@
-{
-  "body_html": "<!doctype html><div data-lake-element=\"root\" class=\"lake-engine lake-typography-traditional\" data-parser-by=\"lake2html\"><a name=\"将-Docker-容器作为远程开发环境\"></a><h2 id=\"e2817f2e\" style=\"padding: 7px 0px; margin: 0px; font-weight: 700; font-size: 24px; line-height: 32px;\">将 Docker 容器作为远程开发环境</h2><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\"><br></p><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">无需本地安装开发工具，直接将 Docker 容器作为开发环境，具体参考 <a href=\"https://code.visualstudio.com/docs/remote/containers\" target=\"_blank\" rel=\"noopener noreferrer\">官方文档</a>。</p></div>",
-  "slug": 5096220,
-  "title": "VS Code"
-}
