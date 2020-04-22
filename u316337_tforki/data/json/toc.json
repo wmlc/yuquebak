@@ -1,5 +1,40 @@
 [
   {
+    "title": "sphinx",
+    "slug": "#",
+    "depth": 1
+  },
+  {
+    "title": "站内全文搜索引擎 Sphinx/coreseek 安装使用教程",
+    "slug": "xmdt2m",
+    "depth": 2
+  },
+  {
+    "title": "ubuntu 安装sphinx报错解决方法",
+    "slug": "tvt7ox",
+    "depth": 2
+  },
+  {
+    "title": "sphinx/coreseek配置说明",
+    "slug": "ankwnt",
+    "depth": 2
+  },
+  {
+    "title": "sphinx增量索引配置",
+    "slug": "yp90xx",
+    "depth": 2
+  },
+  {
+    "title": "sphinx 不关闭进程更新索引",
+    "slug": "udr5lg",
+    "depth": 2
+  },
+  {
+    "title": "linux 国内更新源",
+    "slug": "hvqyxd",
+    "depth": 1
+  },
+  {
     "title": "基于docker的php开发环境搭建（dnmp）",
     "slug": "gkgiq1",
     "depth": 1
@@ -123,6 +158,11 @@
     "title": "Mac",
     "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "brew国内加速",
+    "slug": "mywqs7",
+    "depth": 2
   },
   {
     "title": "命令窗口多开工具 xpanes",
