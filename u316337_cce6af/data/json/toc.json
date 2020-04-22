@@ -1,5 +1,10 @@
 [
   {
+    "title": "nginx配置auth_basic登录认证的方法",
+    "slug": "ip8d7y",
+    "depth": 1
+  },
+  {
     "title": "nginx 查看访问 IP 并封禁 IP 详解",
     "slug": "cmy5we",
     "depth": 1
