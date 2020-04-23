@@ -1,107 +1,147 @@
 [
   {
+    "title": "php",
+    "slug": "#",
+    "depth": 1
+  },
+  {
     "title": "php 扩展安装方法",
     "slug": "eweqtx",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "composer",
     "slug": "#",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "Composer 加速，镜像源修改",
     "slug": "gw882y",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "Composer 遇见问题解决思路",
     "slug": "xpuab0",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "依赖管理Composer",
     "slug": "gr7phv",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "php定位和分析执行效率方法",
     "slug": "rp4g1y",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "array_search 和 in_array 函数效率问题",
     "slug": "psa6bf",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "phpredis 手册",
     "slug": "lypxms",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "PHPMailer 在本地发送成功  阿里云上发送失败原因",
     "slug": "zv7bvl",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "urldecode & rawurldecode 说明",
     "slug": "uncddw",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "PHP在linux上执行系统命令",
     "slug": "cu0msv",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "php运算符优先级",
     "slug": "bztty8",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "面向对象特性与设计原则",
     "slug": "qywkf6",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "功能代码整理",
     "slug": "#",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "生成二维码",
     "slug": "od2g0e",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "反斜杠过滤",
     "slug": "kmmndb",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "时间格式判断",
     "slug": "sbynvb",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "php获取用户和服务器ip及其地理位置详解",
     "slug": "sngsnz",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "语雀知识库备份",
     "slug": "fruqvl",
-    "depth": 2
+    "depth": 3
   },
   {
     "title": "lumen",
     "slug": "#",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "lumen框架解决非简单请求 cors 跨域问题",
     "slug": "zmn4pc",
+    "depth": 3
+  },
+  {
+    "title": "go",
+    "slug": "#",
+    "depth": 1
+  },
+  {
+    "title": "Go 语言环境安装",
+    "slug": "rgsr79",
     "depth": 2
+  },
+  {
+    "title": "Go 语言结构、特性说明",
+    "slug": "lbg1g2",
+    "depth": 2
+  },
+  {
+    "title": "Go 语言环境安装",
+    "slug": "klb1fi",
+    "depth": 2
+  },
+  {
+    "title": "Go 语言结构、特性说明",
+    "slug": "ixzbme",
+    "depth": 2
+  },
+  {
+    "title": "beego",
+    "slug": "#",
+    "depth": 2
+  },
+  {
+    "title": "beego 安装使用",
+    "slug": "fr23et",
+    "depth": 3
   }
 ]
