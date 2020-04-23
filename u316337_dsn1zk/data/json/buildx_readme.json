@@ -1,5 +1,0 @@
-{
-  "body_html": "<!doctype html><div data-lake-element=\"root\" class=\"lake-engine lake-typography-traditional\" data-parser-by=\"lake2html\"><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">Docker Buildx 是一个 docker CLI 插件，其扩展了 docker 命令，支持 <a href=\"buildx_buildkit\">Moby BuildKit</a> 提供的功能。提供了与 docker build 相同的用户体验，并增加了许多新功能。</p><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\"><br></p><blockquote style=\"margin-top: 5px; margin-bottom: 5px; padding-left: 1em; margin-left: 0px; border-left: 3px solid rgb(238, 238, 238); opacity: 0.6;\"><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">该功能仅适用于 Docker v19.03+ 版本</p></blockquote></div>",
-  "slug": 5096261,
-  "title": "Docker Buildx"
-}
