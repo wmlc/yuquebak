@@ -1,5 +1,10 @@
 [
   {
+    "title": "Linux之scp命令",
+    "slug": "tou0am",
+    "depth": 1
+  },
+  {
     "title": "sphinx",
     "slug": "#",
     "depth": 1
@@ -158,6 +163,11 @@
     "title": "Mac",
     "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "mac 下编译安装nginx",
+    "slug": "zyedax",
+    "depth": 2
   },
   {
     "title": "brew国内加速",
