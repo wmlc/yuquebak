@@ -1,47 +1,62 @@
 [
   {
+    "title": "MySQL",
+    "slug": "#",
+    "depth": 1
+  },
+  {
     "title": "高并发系统数据库架构设计",
     "slug": "kgz9kg",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "mysql日期和时间类型",
     "slug": "gzuhke",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "MySql优化建议总结和注意事项",
     "slug": "mop6q7",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "MySQL不能远程连接解决方法",
     "slug": "zbgbdq",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "MySQL 共享锁&排他锁",
     "slug": "fb67t1",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "mysql定位和分析执行效率方法",
     "slug": "qlxhlw",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "mysql 事务特性以及隔离级别说明",
     "slug": "ii3ehk",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "count(*)与group by的统计问题",
     "slug": "wrbzgy",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "mysql 字段类型说明和推荐",
     "slug": "chrh36",
+    "depth": 2
+  },
+  {
+    "title": "Redis",
+    "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "单节点redis分布式锁介绍",
+    "slug": "lx4p7h",
+    "depth": 2
   }
 ]
