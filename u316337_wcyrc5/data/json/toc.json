@@ -65,6 +65,16 @@
     "depth": 2
   },
   {
+    "title": "Laravel 最佳实践",
+    "slug": "szzz2p",
+    "depth": 3
+  },
+  {
+    "title": "Laravel 请求到达控制器的过程",
+    "slug": "ls0tge",
+    "depth": 3
+  },
+  {
     "title": "lumen框架解决非简单请求 cors 跨域问题",
     "slug": "dss3bs",
     "depth": 3
