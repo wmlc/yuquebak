@@ -1,8 +1,13 @@
 [
   {
-    "title": "命令使用",
+    "title": "命令介绍",
     "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "系统监控工具 dstat 介绍",
+    "slug": "pa5xd7",
+    "depth": 2
   },
   {
     "title": "Linux之scp命令",
@@ -15,6 +20,11 @@
     "depth": 2
   },
   {
+    "title": "crontab使用详解",
+    "slug": "dhdqeb",
+    "depth": 2
+  },
+  {
     "title": "crontab -r 清除后找回",
     "slug": "gozyc6",
     "depth": 2
@@ -23,11 +33,6 @@
     "title": "logrotate 配置",
     "slug": "irxmh9",
     "depth": 2
-  },
-  {
-    "title": "linux 国内更新源",
-    "slug": "ggyr0m",
-    "depth": 1
   },
   {
     "title": "sphinx",
@@ -110,14 +115,19 @@
     "depth": 2
   },
   {
-    "title": "基于docker的php开发环境搭建（dnmp）",
-    "slug": "eeluzf",
-    "depth": 1
-  },
-  {
     "title": "nginx",
     "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "lnmp环境站点502与504错误分析",
+    "slug": "sgigvg",
+    "depth": 2
+  },
+  {
+    "title": "nginx杜绝HTTP伪请求头攻击",
+    "slug": "uuep8p",
+    "depth": 2
   },
   {
     "title": "启用nginx status状态页详解",
@@ -195,14 +205,14 @@
     "depth": 2
   },
   {
-    "title": "搭建自己git服务",
-    "slug": "wla2da",
+    "title": "一台电脑上不同的Git仓库账号使用不同的公私钥设置",
+    "slug": "gik71c",
     "depth": 2
   },
   {
-    "title": "deployer 项目部署介绍",
-    "slug": "yuv430",
-    "depth": 1
+    "title": "搭建自己git服务",
+    "slug": "wla2da",
+    "depth": 2
   },
   {
     "title": "shell",
@@ -223,11 +233,6 @@
     "title": "mysql 数据库备份",
     "slug": "la3htl",
     "depth": 2
-  },
-  {
-    "title": "crontab使用详解",
-    "slug": "dhdqeb",
-    "depth": 1
   },
   {
     "title": "ubuntu",
@@ -260,24 +265,39 @@
     "depth": 2
   },
   {
-    "title": "v2ray 搭建",
-    "slug": "vnsqxm",
+    "title": "杂谈",
+    "slug": "#",
     "depth": 1
   },
   {
-    "title": "一台电脑上不同的Git仓库账号使用不同的公私钥设置",
-    "slug": "gik71c",
-    "depth": 1
+    "title": "linux 国内更新源",
+    "slug": "ggyr0m",
+    "depth": 2
+  },
+  {
+    "title": "基于docker的php开发环境搭建（dnmp）",
+    "slug": "eeluzf",
+    "depth": 2
+  },
+  {
+    "title": "deployer 项目部署介绍",
+    "slug": "yuv430",
+    "depth": 2
+  },
+  {
+    "title": "v2ray 搭建",
+    "slug": "vnsqxm",
+    "depth": 2
   },
   {
     "title": "Linux 系统磁盘挂载",
     "slug": "husxzh",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "创建自定义命令",
     "slug": "vfib25",
-    "depth": 1
+    "depth": 2
   },
   {
     "title": "Elasticsearch",
