@@ -5,6 +5,16 @@
     "depth": 1
   },
   {
+    "title": "redis主从",
+    "slug": "np2gya",
+    "depth": 2
+  },
+  {
+    "title": "redis配置认证密码",
+    "slug": "gfqdao",
+    "depth": 2
+  },
+  {
     "title": "redis 过期策略",
     "slug": "zc82hf",
     "depth": 2
@@ -12,6 +22,11 @@
   {
     "title": "redis 禁用O(n) 复杂度方法",
     "slug": "vwxx7u",
+    "depth": 2
+  },
+  {
+    "title": "单节点redis分布式锁介绍",
+    "slug": "lx4p7h",
     "depth": 2
   },
   {
@@ -153,6 +168,11 @@
     "title": "nginx",
     "slug": "#",
     "depth": 1
+  },
+  {
+    "title": "Apache 与 Nginx 比较",
+    "slug": "ufbisf",
+    "depth": 2
   },
   {
     "title": "Nginx 配置子目录项目",
@@ -452,6 +472,56 @@
   {
     "title": "配置公私钥登录,禁止密码登录",
     "slug": "cu37x2",
+    "depth": 2
+  },
+  {
+    "title": "Mysql",
+    "slug": "#",
+    "depth": 1
+  },
+  {
+    "title": "mysql 字段类型说明和推荐",
+    "slug": "chrh36",
+    "depth": 2
+  },
+  {
+    "title": "MySQL 共享锁&排他锁",
+    "slug": "fb67t1",
+    "depth": 2
+  },
+  {
+    "title": "mysql日期和时间类型",
+    "slug": "gzuhke",
+    "depth": 2
+  },
+  {
+    "title": "mysql 事务特性以及隔离级别说明",
+    "slug": "ii3ehk",
+    "depth": 2
+  },
+  {
+    "title": "高并发系统数据库架构设计",
+    "slug": "kgz9kg",
+    "depth": 2
+  },
+  {
+    "title": "MySql优化建议总结和注意事项",
+    "slug": "mop6q7",
+    "depth": 2
+  },
+  {
+    "title": "mysql定位和分析执行效率方法",
+    "slug": "qlxhlw",
+    "depth": 2
+  },
+  {
+    "title": "count(*)与group by的统计问题",
+    "slug": "wrbzgy",
+    "depth": 2
+  },
+  {
+    "title": "MySQL不能远程连接解决方法",
+    "slug": "zbgbdq",
     "depth": 2
   }
 ]
