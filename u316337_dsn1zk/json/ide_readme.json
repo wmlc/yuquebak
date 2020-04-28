@@ -1,0 +1,5 @@
+{
+  "body_html": "<!doctype html><div data-lake-element=\"root\" class=\"lake-engine lake-typography-traditional\" data-parser-by=\"lake2html\"><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">使用 IDE 进行开发，往往要求本地安装好工具链。一些 IDE 支持 Docker 容器中的工具链，这样充分利用了 Docker 的优点，而无需在本地安装。</p></div>",
+  "slug": 5096219,
+  "title": "在 IDE 中使用 Docker"
+}
