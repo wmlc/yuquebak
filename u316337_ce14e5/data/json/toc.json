@@ -480,6 +480,11 @@
     "depth": 1
   },
   {
+    "title": "mysql主从数据库状态检测（php）",
+    "slug": "rnlele",
+    "depth": 2
+  },
+  {
     "title": "mysql 字段类型说明和推荐",
     "slug": "chrh36",
     "depth": 2
