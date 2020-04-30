@@ -1,0 +1,5 @@
+{
+  "body_html": "<!doctype html><div data-lake-element=\"root\" class=\"lake-engine lake-typography-traditional\" data-parser-by=\"lake2html\"><p style=\"font-size: 14px; color: rgb(38, 38, 38); letter-spacing: 0.05em; outline-style: none; overflow-wrap: break-word; line-height: 1.74; margin: 0px;\">丰富的过滤器插件的存在是 logstash 威力如此强大的重要因素。名为过滤器，其实提供的不单单是过滤的功能。在本章我们就会重点介绍几个插件，它们扩展了进入过滤器的原始数据，进行复杂的逻辑处理，甚至可以无中生有的添加新的 logstash 事件到后续的流程中去！</p></div>",
+  "slug": 6589679,
+  "title": "过滤器插件(Filter)"
+}

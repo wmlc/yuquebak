@@ -1,0 +1,5 @@
+{
+  "body_html": "\n\n  \n    Gork 插件使用\n    \n    \n    \n    \n    \n  <link href=\"https://www.yuque.com/attachments/yuque/0/2020/css/491128/1588213910235-976bcd3a-7a9c-473d-b800-1b1df54807d4.css\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"https://www.yuque.com/attachments/yuque/0/2020/css/491128/1588213910286-64db0dd0-ac29-46fb-9241-76ef318b1b53.css\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n        \n<div class=\"page\">\n    \n        <h1 class=\"book-chapter\">Gork 插件使用</h1>\n        <div class=\"section\">\n            <h1 id=\"gork-插件使用\" class=\"calibre7\">Gork 插件使用</h1>\n<h2 id=\"1、syntaxsemantic的来源\" class=\"calibre8\">1、%{SYNTAX:SEMANTIC}的来源</h2>\n<p class=\"calibre12\">logstash为了方便对于日志的解析，为用户准备了常规日志的解析正则，具体正则表达式在<code class=\"pcalibre5 pcalibre6 calibre19\">https://github.com/logstash-plugins/logstash-patterns-core/tree/master/patterns</code>项目中。</p>\n<p class=\"calibre12\">其中最基础的正则表达式如NUMBER在文件<code class=\"pcalibre5 pcalibre6 calibre19\">grok-patterns</code>文件中。</p>\n\n        </div>\n    \n</div>\n\n        \n    \n\n\n\n",
+  "slug": 6588891,
+  "title": "gork_cha_jian_shi_yong"
+}
